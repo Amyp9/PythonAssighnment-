@@ -1,0 +1,38 @@
+ Assighnment 2 Amee Parmar Python Training 2019
+ 2.Write a program to take out the pair of numbers whose sum is
+equal to an even number.You should return the l ist from the range
+of 1 to 21.
+def getpaircount(i,n,sum):
+count=0
+for i in range (0,n):
+if array [i]%2==0:
+count (+=1,sum)
+else:
+ans=x(ans,sum)
+count=0
+ans=x(ans,sum)
+return ans
+Output:
+i[1,2,3,4,5]
+n=[2,4]
+ans= 6
+3-Write a program to calculate the frequency of any special
+character if that exist in any string.
+def chr_frequencey(str1):
+dict=[]
+for n in str1
+keys=dict.keys()
+if n in keys:
+str1=str1.replace(char,"&","*","$")
+str1=char+str1[1:]
+dict[n]+= 1
+else: 
+dict [n]=1
+return dict 
+print(char_frequency("hello&*$$world"))
+Output: hello&*$$world
+
+
+
+
+ 
